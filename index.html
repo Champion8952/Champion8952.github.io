@@ -21,7 +21,10 @@
 
 </head>
 
-<body>
+<body onload="myFunction()">
+
+  <div id="loading"></div>
+  
 <!----Navigation Start--------------------------------------------------------------------------------------------------->
  <!-- Navigation Menu-->
   <!-- Nav class 1 -->
@@ -925,6 +928,14 @@
     </section>
   </main>
   <!--------------------------------------------------------------------------------------------------------------------------------------> 
+  <script>
+    var preloader = document.getElementById('loading');
+    
+    function myFunction(){
+      preloader.style.display = 'none'
+    }
+  </script>
+  
   <script src="/assets/vendor/typed.js/typed.min.js"></script>
   <script type="text/javascript">
     var typed = new Typed('.typing',{
