@@ -11,7 +11,7 @@
   /* background-size: cover;  */
   margin: -31px; 
   margin-left:-5px;
-  border: 6px solid rgba(0, 77, 64, 0.4); 
+  border: 6px solid rgba(8, 11, 184, 0.514); 
   border-radius: 30% !important;
 }
 
@@ -79,7 +79,7 @@
   background-color: black;
 }
 
-/* Buttons - Read Me, Contact Us */
+/*----------------------- Buttons - Read Me, Contact Us -----------------------------*/
 
 .readme {
   position: relative;
@@ -96,7 +96,7 @@
 }
 
 .readme:hover{
-  color: #00796b;
+  color: #b3b00b;
   background-color: white;
 } 
 
@@ -116,11 +116,11 @@
 }
 
 .contactme:hover{
-  color: #00796b;
+  color: #a100afcb;
   background-color: white;
 }
 
-/*-------------- main body ------------------------------ */
+/*------------------ main body ------------------------------ */
 
 
 /* body-color */
@@ -130,19 +130,8 @@ body {
   font-size: 18px;
 }
 
-/* body {
-  color: black;
-  font-size: 18px;
-} */
-
-/* main a -- links */
-
-/* a {
-  color: #009688;
-} */
-
 a {
-  color: #004d40;
+  color: rgba(8, 11, 184, 0.514);
 }
 
 /* main blockqoute */
@@ -154,7 +143,7 @@ a {
   font-weight: 400;
   margin: 20px 0;
   padding-left: 1.5rem;
-} */
+} 
 
 blockquote {
   border-left: 5px solid #795548;
@@ -164,6 +153,7 @@ blockquote {
   margin: 20px 0;
   padding-left: 1.5rem;
 }
+*/
 
 blockquote * {
   font-size: inherit;
@@ -174,10 +164,10 @@ blockquote * {
   text-align: center;
 }
 
-/* main nav */
+/*--------------- main nav -------------------------*/
 
 nav {
-  background: white;
+  background: rgb(111, 241, 85);
   box-shadow: none;
   height: 0;
 }
@@ -239,7 +229,7 @@ ul.side-nav li {
 
 ul.side-nav.fixed a {
   box-sizing: content-box;
-  color: rgb(16, 202, 56);
+  color: rgb(243, 162, 69);
   display: block;
   line-height: 100%;
   padding: 10px 0 12px;
@@ -259,7 +249,7 @@ ul.table-of-contents li.logo a.active, ul.table-of-contents li.logo a:hover {
 } */
 
 ul.side-nav.fixed li.logo {
-  background-color: #fafafa;
+  background-color: #fc8c31;
   border-bottom: 1px solid #ddd;
   box-sizing: content-box;
   min-height: 90px;
@@ -272,12 +262,12 @@ ul.side-nav.fixed li.logo a {
 }
 
 ul.table-of-contents li:not(.logo) a.active, ul.table-of-contents li:not(.logo) a:hover {
-  background-color: #fafafa;
+  background-color: #44eff5;
   border-left: 3px solid;
 }
 
 ul.side-nav.fixed.table-of-contents li:not(.logo) a span, ul#slide-out li:not(.logo) a span {
-  color: #333 !important;
+  color: rgb(238, 137, 43) !important;
 }
 
 li.logo span {
@@ -322,12 +312,12 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  background: #d91ff1 repeat;
   position: relative;
 }
 
 #intro.section .container {
-  color: white;
+  color: rgb(122, 241, 43);
   font-weight: 200;
   left: 0;
   position: absolute;
