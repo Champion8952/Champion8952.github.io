@@ -11,7 +11,7 @@
   /* background-size: cover;  */
   margin: -31px; 
   margin-left:-5px;
-  border: 6px solid rgba(0, 77, 64, 0.4); 
+  border: 6px solid rgb(11, 81, 211); 
   border-radius: 30% !important;
 }
 
@@ -79,7 +79,7 @@
   background-color: black;
 }
 
-/* Buttons - Read Me, Contact Us */
+/*--------------------------- Buttons - Read Me, Contact Us -----------------*/
 
 .readme {
   position: relative;
@@ -96,7 +96,7 @@
 }
 
 .readme:hover{
-  color: #00796b;
+  color: #f89e36;
   background-color: white;
 } 
 
@@ -116,7 +116,7 @@
 }
 
 .contactme:hover{
-  color: #00796b;
+  color: #9f28af;
   background-color: white;
 }
 
