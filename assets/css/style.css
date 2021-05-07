@@ -278,6 +278,8 @@ ul.table-of-contents li:not(.logo) a.active, ul.table-of-contents li:not(.logo) 
 
 ul.side-nav.fixed.table-of-contents li:not(.logo) a span, ul#slide-out li:not(.logo) a span {
   color: #333 !important;
+  font-size: 18px;
+  font-weight: 600;
 }
 
 li.logo span {
@@ -550,7 +552,9 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #3846ef !important;
+  color: #0013fd !important;
+  font-size:18px;
+  font-weight:600;
 }
 
 /* .teal-text {
