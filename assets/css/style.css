@@ -10,10 +10,9 @@
   
   /* background-size: cover;  */
   margin: -31px; 
-  margin-left:-5px;
-  border: 6px solid rgb(11, 81, 211); 
-  background-color: tomato;
-  border-radius: 30% !important;
+  margin-left: 5px;
+  border: 6px solid #118be2; 
+  border-radius: 70% !important;
 }
 
 .profile-pic img {
@@ -259,8 +258,8 @@ ul.table-of-contents li.logo a.active, ul.table-of-contents li.logo a:hover {
 } */
 
 ul.side-nav.fixed li.logo {
-  background-color: #fafafa;
-  border-bottom: 1px solid #ddd;
+  background-color: #86ff8b;
+  border-bottom: 2px solid #000;
   box-sizing: content-box;
   min-height: 90px;
   padding: 30px 30px 40px;
@@ -277,9 +276,9 @@ ul.table-of-contents li:not(.logo) a.active, ul.table-of-contents li:not(.logo) 
 }
 
 ul.side-nav.fixed.table-of-contents li:not(.logo) a span, ul#slide-out li:not(.logo) a span {
-  color: #333 !important;
-  font-size: 18px;
-  font-weight: 600;
+  color: #01ffa9 !important;
+  font-size: 20px;
+  font-weight: 450;
 }
 
 li.logo span {
@@ -552,7 +551,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #0013fd !important;
+  color: #1d1d1d !important;
   font-size:18px;
   font-weight:600;
 }
