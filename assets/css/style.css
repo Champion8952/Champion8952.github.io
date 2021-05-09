@@ -555,9 +555,11 @@ small {
   font-weight:600;
 }
 
-/* .teal-text {
-  color: #0b5e86 !important;
-} */
+.teal-text-r {
+  color: #00e1ff !important;
+  font-size: 20px;
+  font-weight: 600;
+} 
 
 /* .teal */
 
