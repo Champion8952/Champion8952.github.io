@@ -276,7 +276,7 @@ ul.table-of-contents li:not(.logo) a.active, ul.table-of-contents li:not(.logo) 
 }
 
 ul.side-nav.fixed.table-of-contents li:not(.logo) a span, ul#slide-out li:not(.logo) a span {
-  color: #01ffa9 !important;
+  color: #ffe000 !important;
   font-size: 20px;
   font-weight: 450;
 }
