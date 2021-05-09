@@ -262,6 +262,7 @@ ul.side-nav.fixed li.logo {
   box-sizing: content-box;
   min-height: 90px;
   padding: 30px 30px 40px;
+  background: linear-gradient(45deg, #02262b, transparent);
 }
 
 ul.side-nav.fixed li.logo a {
@@ -564,7 +565,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #118be2 !important;
+  background-color: #09fbf6a6 !important;
 }
 
 /* .teal {
